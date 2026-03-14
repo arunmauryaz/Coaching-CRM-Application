@@ -358,10 +358,9 @@ For support and questions:
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arunmauryaz/Coaching-CRM-Application/refs/heads/main/images/Screenshot%202026-03-14%20220643.png" width="45%">
-  <img src="https://raw.githubusercontent.com/arunmauryaz/Coaching-CRM-Application/refs/heads/main/images/Screenshot%202026-03-14%20220550.png" width="45%">
-</p>
+![Screenshot 1](https://raw.githubusercontent.com/arunmauryaz/Coaching-CRM-Application/refs/heads/main/images/Screenshot%202026-03-14%20220643.png)
+
+![Screenshot 2](https://raw.githubusercontent.com/arunmauryaz/Coaching-CRM-Application/refs/heads/main/images/Screenshot%202026-03-14%20220550.png)
 
 **Made with ❤️ for coaching institutes**
 
