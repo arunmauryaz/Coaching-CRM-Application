@@ -153,7 +153,7 @@ Comprehensive four-section inquiry management:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/coaching-crm.git
+   git clone https://github.com/arunmauryaz/Coaching-CRM-Application.git
    cd coaching-crm
    ```
 
