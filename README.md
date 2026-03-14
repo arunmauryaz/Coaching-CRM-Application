@@ -358,7 +358,7 @@ For support and questions:
 
 ## 📸 Screenshots
 
----
+![Screenshot](https://raw.githubusercontent.com/arunmauryaz/Coaching-CRM-Application/main/images/Screenshot%202026-03-14%20220643.png)
 
 **Made with ❤️ for coaching institutes**
 
